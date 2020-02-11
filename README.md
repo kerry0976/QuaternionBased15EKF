@@ -4,7 +4,7 @@ Quaternion based loosely coupled 15 Extended Kalman Filter (EKF) using real Flig
 Run the script called "gnss_ins_EKF_FD_quat.m"
 
 
-## File description ##:
+## File description:
 
 1. gnss_ins_EKF_FD_quat.m	// main script
 
