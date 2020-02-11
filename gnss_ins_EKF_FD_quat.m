@@ -469,8 +469,8 @@ for k = 2:drl
         
         %   Update sensor bias estimates
         
-        accelBias(k,:) = accelBias(k-1,:) + accelFeedBack(k,:);
-        gyroBias(k,:) = gyroBias(k-1,:) + gyroFeedBack(k,:);
+        accelBias(k,:) = accelBias(k,:) + accelFeedBack(k,:);
+        gyroBias(k,:) = gyroBias(k,:) + gyroFeedBack(k,:);
 
 
     end %   End of measurement update
