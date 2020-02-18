@@ -16,4 +16,4 @@ Run the script called "gnss_ins_EKF_FD_quat.m"
 
 5. plot_EKF_output_new.m	// plotting
 
-6. quaternionKinematicforErrorStateKF.pdf  // reference for error EKF
+6. quaternionKinematicforErrorStateKF.pdf  // excellent reference for error state EKF
